@@ -1,0 +1,29 @@
+div {
+	/*border: 1px solid black;*/
+	width: 50%;
+	margin-left: 25%;
+}
+
+body{
+	background-image: url("background.jpg");
+	/*Link da imagem: https://hdwallsource.com/img/2014/5/dark-anime-backgrounds-17185-17742-hd-wallpapers.jpg*/
+	background-size: cover;
+	color: white;
+}
+
+button:hover{
+	background-color: yellow;
+	color: red;
+}
+
+h1{
+	font-family: 'Chela One', cursive;
+}
+
+p{
+	font-family: 'Gaegu', cursive;
+}
+
+textarea{
+	font-style: oblique;
+}
